@@ -1,0 +1,29 @@
+English - Male gender stop words
+he
+him
+male
+man
+his
+boy
+father
+
+English - Female gender stop words
+she
+her
+female
+woman
+girl
+mother
+lady
+hers
+
+Hindi - Male gender stop words
+था
+करता
+मेरा
+
+Hindi - Female gender stop words
+थी
+करती
+मेरी
+
